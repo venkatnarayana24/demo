@@ -1,0 +1,45 @@
+#nav{
+    height: 50px;
+    width: 100%;
+    margin-bottom: 10px;
+    background-color:rgba(1, 9, 18, 0.971);
+    position: ;
+    }
+#business{
+ background: url('bussiness_trip.jpg') center;
+ background-size: cover;
+ background-repeat: no-repeat;
+ height: 200px;
+ width: 1145px;
+ margin-left: 150px;
+ margin-bottom: 10px;
+ border-style: double;
+ border-radius: 12px 
+}
+#Family{
+background: url('family_trip.jpg') center;
+background-size: cover;
+height: 200px;
+width: 1145px;
+margin-left: 150px;
+margin-bottom: 10px;
+border-style: double;
+border-radius: 12px 
+   }
+#College{
+background: url('college_trip.jpg') center;
+background-size: cover;
+height: 200px;
+width: 1145px;
+margin-left: 150px;
+margin-bottom: 10px;
+border-style: double;
+border-radius: 12px 
+    }
+body{
+
+ background: url('home_background.jpg');
+ background-size: contain;
+ 
+ 
+}
