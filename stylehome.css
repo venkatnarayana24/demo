@@ -1,40 +1,65 @@
-#nav{
+ #nav{
     height: 50px;
     width: 100%;
     margin-bottom: 10px;
     background-color:rgba(1, 9, 18, 0.971);
-    position: ;
     }
+
 #business{
  background: url('bussiness_trip.jpg') center;
  background-size: cover;
  background-repeat: no-repeat;
- height: 200px;
- width: 1145px;
+ height: 175px;
+ width: 1100px;
  margin-left: 150px;
  margin-bottom: 10px;
  border-style: double;
- border-radius: 12px 
+ border-radius: 200px 
+}
+#business:hover{
+    width:1147px;
+    height: 202px;
+    margin-left: 120;
+    border-style: dashed;
+    border-color: rgb(11, 7, 224);
+    transition: width 0.5s,height 0.5s,margin-left 0.5s;
+    -webkit-transition: width 0.5s,height 0.5s,margin-left 0.5s;
 }
 #Family{
 background: url('family_trip.jpg') center;
 background-size: cover;
-height: 200px;
-width: 1145px;
+height: 175px;
+width: 1100px;
 margin-left: 150px;
 margin-bottom: 10px;
 border-style: double;
-border-radius: 12px 
+border-radius: 200px 
    }
+#Family:hover{
+    width:1147px;
+    height: 202px;
+    margin-left: 120;
+    border-style: dashed;
+    border-color: rgb(11, 7, 224);
+    transition: width 0.5s,height 0.5s,margin-left 0.5s;
+}
 #College{
 background: url('college_trip.jpg') center;
 background-size: cover;
-height: 200px;
-width: 1145px;
+height: 175px;
+width: 1100px;
 margin-left: 150px;
 margin-bottom: 10px;
 border-style: double;
-border-radius: 12px 
+border-radius: 250px 
+    }
+#College:hover{
+        width:1147px;
+        height: 202px;
+        margin-left: 120;
+        border-style: dashed;
+        border-color: rgb(11, 7, 224);
+        transition: width 0.5s,height 0.5s,margin-left 0.5s;
     }
 body{
 
